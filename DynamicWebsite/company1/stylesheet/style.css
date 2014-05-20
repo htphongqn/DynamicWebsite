@@ -3,7 +3,7 @@
 body {
 	font:11px Arial, Helvetica, sans-serif;
 	color:#535353;
-	background:#FFFDE4 url(../images/bg.jpg) left top repeat-x;
+	background:javascript:void(0)FFFDE4 url(../images/bg.jpg) left top repeat-x;
 	margin:0px;
 	padding:0px;
 }
