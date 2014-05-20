@@ -22,9 +22,8 @@
     <div class="header">
         <table align="center" >
             <tr>
-                <td><a href="company1/index.html"><img src="company1/images/banner.jpg" width="200" /></a></td>
-                <td><a href="company1/index.html"><img src="company1/images/banner.jpg" width="200" /></a></td>
-                <td><a href="company1/index.html"><img src="company1/images/banner.jpg" width="200" /></a></td>
+                <td><a href="company1/index.html"><img src="company1/images/banner.jpg" width="200" height="150" /></a></td>
+                <td><a href="company2/index.html"><img src="company2/images/welcomeimg.jpg" width="200" height="150" /></a></td>
             </tr>
         </table>
     </div>
