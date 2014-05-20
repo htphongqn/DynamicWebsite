@@ -57,6 +57,49 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="company1\aboutus.html" />
+    <Content Include="company1\contact.html" />
+    <Content Include="company1\images\arrow.png" />
+    <Content Include="company1\images\banner.jpg" />
+    <Content Include="company1\images\bg.jpg" />
+    <Content Include="company1\images\footer.jpg" />
+    <Content Include="company1\images\headingblackbg.gif" />
+    <Content Include="company1\images\ico-email.png" />
+    <Content Include="company1\images\ico-fax.png" />
+    <Content Include="company1\images\ico-med-1.png" />
+    <Content Include="company1\images\ico-med-2.png" />
+    <Content Include="company1\images\ico-med-3.png" />
+    <Content Include="company1\images\ico-med-4.png" />
+    <Content Include="company1\images\ico-phone.png" />
+    <Content Include="company1\images\ico-support.png" />
+    <Content Include="company1\images\ico-twitter.png" />
+    <Content Include="company1\images\ico-website.png" />
+    <Content Include="company1\images\ico1.png" />
+    <Content Include="company1\images\ico2.png" />
+    <Content Include="company1\images\ico3.png" />
+    <Content Include="company1\images\ico4.png" />
+    <Content Include="company1\images\ico5.png" />
+    <Content Include="company1\images\ico6.png" />
+    <Content Include="company1\images\ico7.png" />
+    <Content Include="company1\images\ico8.png" />
+    <Content Include="company1\images\insidebanner.jpg" />
+    <Content Include="company1\images\logo.jpg" />
+    <Content Include="company1\images\more-news.jpg" />
+    <Content Include="company1\images\photo-about.jpg" />
+    <Content Include="company1\images\photo-contact.jpg" />
+    <Content Include="company1\images\project1.jpg" />
+    <Content Include="company1\images\project2.jpg" />
+    <Content Include="company1\images\project3.jpg" />
+    <Content Include="company1\images\project4.jpg" />
+    <Content Include="company1\images\projectimg1.jpg" />
+    <Content Include="company1\images\projectimg2.jpg" />
+    <Content Include="company1\images\projectimg3.jpg" />
+    <Content Include="company1\index.html" />
+    <Content Include="company1\privacy.html" />
+    <Content Include="company1\projects.html" />
+    <Content Include="company1\services.html" />
+    <Content Include="company1\stylesheet\style.css" />
+    <Content Include="company1\support.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
