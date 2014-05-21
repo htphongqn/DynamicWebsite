@@ -116,6 +116,23 @@
     <Content Include="company3\images\t-menu-sitemap.gif" />
     <Content Include="company3\images\title-cont-bg.jpg" />
     <Content Include="company3\index.html" />
+    <Content Include="company4\css\style.css" />
+    <Content Include="company4\images\adr-bg.gif" />
+    <Content Include="company4\images\cont-sep.gif" />
+    <Content Include="company4\images\i1.gif" />
+    <Content Include="company4\images\i2.gif" />
+    <Content Include="company4\images\i3.gif" />
+    <Content Include="company4\images\logo.gif" />
+    <Content Include="company4\images\menu-bg.jpg" />
+    <Content Include="company4\images\menu-sep.gif" />
+    <Content Include="company4\images\ms.gif" />
+    <Content Include="company4\images\p1.jpg" />
+    <Content Include="company4\images\r-block-title.gif" />
+    <Content Include="company4\images\r-photo.jpg" />
+    <Content Include="company4\images\r-title-bg.jpg" />
+    <Content Include="company4\images\r1.jpg" />
+    <Content Include="company4\images\spacer.gif" />
+    <Content Include="company4\index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
