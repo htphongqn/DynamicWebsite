@@ -3,3 +3,8 @@ E:\PFO\DynamicWebsite\DynamicWebsite\bin\DynamicWebsite.pdb
 E:\PFO\DynamicWebsite\DynamicWebsite\obj\Debug\DynamicWebsite.csprojResolveAssemblyReference.cache
 E:\PFO\DynamicWebsite\DynamicWebsite\obj\Debug\DynamicWebsite.dll
 E:\PFO\DynamicWebsite\DynamicWebsite\obj\Debug\DynamicWebsite.pdb
+E:\GithubProject\DynamicWebsite\DynamicWebsite\bin\DynamicWebsite.dll
+E:\GithubProject\DynamicWebsite\DynamicWebsite\bin\DynamicWebsite.pdb
+E:\GithubProject\DynamicWebsite\DynamicWebsite\obj\Debug\DynamicWebsite.dll
+E:\GithubProject\DynamicWebsite\DynamicWebsite\obj\Debug\DynamicWebsite.pdb
+E:\GithubProject\DynamicWebsite\DynamicWebsite\obj\Debug\DynamicWebsite.csprojResolveAssemblyReference.cache

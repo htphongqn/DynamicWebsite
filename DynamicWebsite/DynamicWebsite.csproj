@@ -100,6 +100,22 @@
     <Content Include="company1\services.html" />
     <Content Include="company1\stylesheet\style.css" />
     <Content Include="company1\support.html" />
+    <Content Include="company3\css\style.css" />
+    <Content Include="company3\images\adr-bg.gif" />
+    <Content Include="company3\images\c-off-bg.jpg" />
+    <Content Include="company3\images\l-pic.jpg" />
+    <Content Include="company3\images\logo.jpg" />
+    <Content Include="company3\images\menu-bg.jpg" />
+    <Content Include="company3\images\menu-bullet.gif" />
+    <Content Include="company3\images\menu-sep.gif" />
+    <Content Include="company3\images\p1.jpg" />
+    <Content Include="company3\images\spacer.gif" />
+    <Content Include="company3\images\t-menu-home.gif" />
+    <Content Include="company3\images\t-menu-login.gif" />
+    <Content Include="company3\images\t-menu-sep.gif" />
+    <Content Include="company3\images\t-menu-sitemap.gif" />
+    <Content Include="company3\images\title-cont-bg.jpg" />
+    <Content Include="company3\index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -113,6 +129,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
