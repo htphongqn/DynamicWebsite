@@ -133,9 +133,58 @@
     <Content Include="company4\images\r1.jpg" />
     <Content Include="company4\images\spacer.gif" />
     <Content Include="company4\index.html" />
+    <Content Include="company5\about-us.html" />
+    <Content Include="company5\contact-us.html" />
+    <Content Include="company5\home.html" />
+    <Content Include="company5\images\2page-img1.jpg" />
+    <Content Include="company5\images\2page-img2.jpg" />
+    <Content Include="company5\images\2page-img3.jpg" />
+    <Content Include="company5\images\arrow.gif" />
+    <Content Include="company5\images\body-bg.jpg" />
+    <Content Include="company5\images\button.gif" />
+    <Content Include="company5\images\cont-tail-right.gif" />
+    <Content Include="company5\images\cont-tail.png" />
+    <Content Include="company5\images\header-bg.jpg" />
+    <Content Include="company5\images\header-img.jpg" />
+    <Content Include="company5\images\icon.png" />
+    <Content Include="company5\images\img-wrapper.jpg" />
+    <Content Include="company5\images\input-bg.gif" />
+    <Content Include="company5\images\logo.gif" />
+    <Content Include="company5\images\m1-act.png" />
+    <Content Include="company5\images\m1.png" />
+    <Content Include="company5\images\m2-act.png" />
+    <Content Include="company5\images\m2.png" />
+    <Content Include="company5\images\m3-act.png" />
+    <Content Include="company5\images\m3.png" />
+    <Content Include="company5\images\m4-05.png" />
+    <Content Include="company5\images\m4-act.png" />
+    <Content Include="company5\images\m4.png" />
+    <Content Include="company5\images\m5-act.png" />
+    <Content Include="company5\images\m5.png" />
+    <Content Include="company5\images\m6-act.png" />
+    <Content Include="company5\images\m6.png" />
+    <Content Include="company5\images\phone.gif" />
+    <Content Include="company5\images\slogan.gif" />
+    <Content Include="company5\images\spacer.gif" />
+    <Content Include="company5\images\tail-bottom.gif" />
+    <Content Include="company5\images\tail-top.gif" />
+    <Content Include="company5\images\templates-logo.gif" />
+    <Content Include="company5\js\cufon-replace.js" />
+    <Content Include="company5\js\cufon-yui.js" />
+    <Content Include="company5\js\ie_png.js" />
+    <Content Include="company5\js\Myriad_Pro_300.font.js" />
+    <Content Include="company5\services.html" />
+    <Content Include="company5\sitemap.html" />
+    <Content Include="company5\style.css" />
+    <Content Include="company5\support.html" />
+    <Content Include="Default.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -146,7 +195,9 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Template1\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
