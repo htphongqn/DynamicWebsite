@@ -108,6 +108,8 @@ h4 a:hover { text-decoration:underline;}
 #footer { color:#fff; height:95px; background:url(images/footer-bg.gif) left top repeat-x;}
 #footer .indent { padding:42px 40px 20px 40px;}
 #footer a { color:#fbcf19;}
-#footer img { position:relative; top:-4px;}
+#footer img { position:relative; top:-4px;
+    left: 0px;
+}
 
 /*==========================================*/
