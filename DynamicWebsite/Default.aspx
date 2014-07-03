@@ -20,10 +20,49 @@
 <body>
     <form id="form1" runat="server">
     <div class="header">
-        <table align="center" >
+        <table align="center" cellpadding="5" cellspacing="5">
             <tr>
-                <td><a href="company1/index.html"><img src="company1/images/banner.jpg" width="200" height="150" /></a></td>
-                <td><a href="company2/index.html"><img src="company2/images/welcomeimg.jpg" width="200" height="150" /></a></td>
+                <td><a href="company1/index.html"><img src="images/c1.png" width="200" height="150" /></a></td>
+                <td><a href="company2/index.html"><img src="images/c2.png" width="200" height="150" /></a></td>
+                <td><a href="company10/home.html"><img src="images/c10.png" width="200" height="150" /></a></td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="company3/index.html"><img src="images/c3.png" width="200" height="150" /></a>
+                </td>
+                <td>
+                    <a href="company4/index.html"><img src="images/c4.png" width="200" height="150" /></a>
+                </td>
+                <td>
+                    <a href="company5/home.html"><img src="images/c5.png" width="200" height="150" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="company6/home.html"><img src="images/c6.png" width="200" height="150" /></a></td>
+                <td>
+                    <a href="company8/home.html"><img src="images/c8.png" width="200" height="150" /></a></td>
+                <td><a href="e-commerce1/index.htm"><img src="images/e1.png" width="200" height="150" /></a></td>
+            </tr>
+            <tr>
+                <td><a href="e-commerce2/index.html"><img src="images/e2.png" width="200" height="150" /></a></td>
+                <td>
+                    <a href="e-commerce3/home.html"><img src="images/e3.png" width="200" height="150" /></a></td>
+                <td>
+                    <a href="e-commerce4/index.html"><img src="images/e4.png" width="200" height="150" /></a></td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="e-commerce5/home.html"><img src="images/e5.png" width="200" height="150" /></a></td>
+                <td>
+                    <a href="e-commerce6/index.html"><img src="images/e6.png" width="200" height="150" /></a></td>
+                <td><a href="e-commerce7/index.html"><img src="images/e7.png" width="200" height="150" /></a></td>
+            </tr>
+            <tr>
+                <td><a href="e-commerce8/index.html"><img src="images/e8.png" width="200" height="150" /></a>
+                </td>
+                <td><a href="e-commerce9/index.html"><img src="images/e9.png" width="200" height="150" /></a></td>
+                <td></td>
             </tr>
         </table>
     </div>
